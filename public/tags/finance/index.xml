@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Finance on Wonderland treadmill</title>
+		<link>http://localhost:1313/tags/finance/</link>
+		<description>Recent content in Finance on localhost:1313</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Tue, 19 Nov 2024 14:29:59 +0300</lastBuildDate>
+		<atom:link href="http://localhost:1313/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Introduction to value and valuation</title>
+			<link>http://localhost:1313/posts/cool-post/</link>
+			<pubDate>Tue, 19 Nov 2024 14:29:59 +0300</pubDate>
+			<guid>http://localhost:1313/posts/cool-post/</guid>
+			<description>
+			Starting off, I’d like to take a moment to consider Value, as a concept. As I thought about making a blog, the value (or, more precisely, …
+			</description>
+		</item>
+		<item>
+			<title>Finance - What is it, and is it good?</title>
+			<link>http://localhost:1313/posts/cool-post---copy/</link>
+			<pubDate>Mon, 18 Nov 2024 14:29:59 +0300</pubDate>
+			<guid>http://localhost:1313/posts/cool-post---copy/</guid>
+			<description>
+			During the Classical period in Greece, the Spartan commander, Lysander, made the difficult decision to exchange Spartan precious metals and …
+			</description>
+		</item>
+	</channel>
+</rss>
