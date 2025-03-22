@@ -11,9 +11,9 @@
 		<atom:link href="http://localhost:1313/tags/value/index.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Introduction to value and valuation</title>
-			<link>http://localhost:1313/posts/cool-post/</link>
+			<link>http://localhost:1313/posts/introduction-to-value-and-valuation/</link>
 			<pubDate>Tue, 19 Nov 2024 14:29:59 +0300</pubDate>
-			<guid>http://localhost:1313/posts/cool-post/</guid>
+			<guid>http://localhost:1313/posts/introduction-to-value-and-valuation/</guid>
 			<description>
 			Starting off, I’d like to take a moment to consider Value, as a concept. As I thought about making a blog, the value (or, more precisely, …
 			</description>

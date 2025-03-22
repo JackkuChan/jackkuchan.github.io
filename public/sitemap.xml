@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/behavioral-finance/</loc>
+    <loc>http://localhost:1313/tags/behavioral-finance/</loc>
     <lastmod>2024-11-21T14:29:59+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/behavioral-finance/</loc>
+    <loc>http://localhost:1313/categories/behavioral-finance/</loc>
     <lastmod>2024-11-21T14:29:59+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -20,6 +20,9 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-11-21T14:29:59+03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/cobra-effect/</loc>
+    <lastmod>2024-11-21T14:29:59+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/modeling-of-lies/</loc>
     <lastmod>2024-11-21T14:29:59+03:00</lastmod>
   </url><url>
@@ -29,13 +32,13 @@
     <loc>http://localhost:1313/tags/finance/</loc>
     <lastmod>2024-11-19T14:29:59+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cool-post/</loc>
+    <loc>http://localhost:1313/posts/introduction-to-value-and-valuation/</loc>
     <lastmod>2024-11-19T14:29:59+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/value/</loc>
     <lastmod>2024-11-19T14:29:59+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cool-post---copy/</loc>
+    <loc>http://localhost:1313/posts/finance-what-is-it-and-is-it-good/</loc>
     <lastmod>2024-11-18T14:29:59+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>

@@ -11,6 +11,17 @@
 		<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title>The modeling of lies, slander and other such misconducts in economics.</title>
+			<link>http://localhost:1313/posts/cobra-effect/</link>
+			<pubDate>Thu, 21 Nov 2024 14:29:59 +0300</pubDate>
+			<guid>http://localhost:1313/posts/cobra-effect/</guid>
+			<description>
+			The cobra effect and perverse incentives – Why there sometimes seem to be a few too
+many snakes in this gosh darn plane(t).
+Perverse …
+			</description>
+		</item>
+		<item>
+			<title>The modeling of lies, slander and other such misconducts in economics.</title>
 			<link>http://localhost:1313/posts/modeling-of-lies/</link>
 			<pubDate>Thu, 21 Nov 2024 14:29:59 +0300</pubDate>
 			<guid>http://localhost:1313/posts/modeling-of-lies/</guid>
@@ -20,18 +31,18 @@
 		</item>
 		<item>
 			<title>Introduction to value and valuation</title>
-			<link>http://localhost:1313/posts/cool-post/</link>
+			<link>http://localhost:1313/posts/introduction-to-value-and-valuation/</link>
 			<pubDate>Tue, 19 Nov 2024 14:29:59 +0300</pubDate>
-			<guid>http://localhost:1313/posts/cool-post/</guid>
+			<guid>http://localhost:1313/posts/introduction-to-value-and-valuation/</guid>
 			<description>
 			Starting off, I’d like to take a moment to consider Value, as a concept. As I thought about making a blog, the value (or, more precisely, …
 			</description>
 		</item>
 		<item>
 			<title>Finance - What is it, and is it good?</title>
-			<link>http://localhost:1313/posts/cool-post---copy/</link>
+			<link>http://localhost:1313/posts/finance-what-is-it-and-is-it-good/</link>
 			<pubDate>Mon, 18 Nov 2024 14:29:59 +0300</pubDate>
-			<guid>http://localhost:1313/posts/cool-post---copy/</guid>
+			<guid>http://localhost:1313/posts/finance-what-is-it-and-is-it-good/</guid>
 			<description>
 			During the Classical period in Greece, the Spartan commander, Lysander, made the difficult decision to exchange Spartan precious metals and …
 			</description>
