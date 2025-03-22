@@ -13,7 +13,7 @@ nofeed = false
 hidden = false
 nodate = false
 images = ["/img/Window.png"]
-imagetext = "An example text for an image you could add!"
+imagetext = ""
 hidemeta = false
 +++
 
