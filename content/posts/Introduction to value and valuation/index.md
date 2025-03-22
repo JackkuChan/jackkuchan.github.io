@@ -12,7 +12,7 @@ categories = [
 nofeed = false
 hidden = false
 nodate = false
-images = ["/img/Jacob.png"]
+images = ["/img/Jacob.PNG"]
 imagetext = ""
 hidemeta = false
 +++
