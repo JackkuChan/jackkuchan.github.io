@@ -12,7 +12,7 @@ nofeed = false
 hidden = false
 nodate = false
 images = ["/img/Lysander.PNG"]
-imagetext = "An example text for an image you could add!"
+imagetext = ""
 hidemeta = false
 +++
 
