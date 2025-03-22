@@ -1,7 +1,7 @@
 +++
-date = '2024-11-21T14:29:59+03:00'
+date = '2025-02-21T14:29:59+03:00'
 draft = false
-title = 'The modeling of lies, slander and other such misconducts in economics.'
+title = 'The cobra effect and perverse incentives'
 tags = [
     "Behavioral finance"
 ]
@@ -12,14 +12,12 @@ categories = [
 nofeed = false
 hidden = false
 nodate = false
-images = ["/img/Window.png"]
+images = ["/img/snakes.png"]
 imagetext = ""
 hidemeta = false
 +++
 
-The cobra effect and perverse incentives – Why there sometimes seem to be a few too
-
-many snakes in this gosh darn plane(t).
+Why there sometimes seem to be a few too many snakes in this gosh darn plane(t).
 
 Perverse incentives, also known as the cobra effect and not to be mixed up with perverted
 incentives, are incentives that seem have the opposite effect than the one intended. The
@@ -33,8 +31,7 @@ After a tea break or two, or three, they found out that people had started breed
 snakes with the purpose of cashing in on the bounty, what a gaffe! Of course, they
 immediately abolished the incentive – causing the breeders to set the snakes free, given
 that they were now worthless. The Brits had to learn how to walk without alerting the
-snakes, and this incident was later portrayed in documentarial style by Monty Python in
-their sketch ”The ministry of silly walks” (This might or might not be true).
+snakes, and this incident was later portrayed in documentarial style by [Monty Python](https://www.youtube.com/watch?v=iV2ViNJFZC8) (This might or might not be true).
 
 When it comes to incentive structures, subsidies, sponsorships and other various financial
 tools of support, a general rule of thumb is as follows: If you pay for something, you will
@@ -56,8 +53,7 @@ instead came across as reverse-psychology and made those that read them acutely 
 of the reverse of life.
 
 Coming back to the nomenclature of ”The cobra effect”, it is also not as straightforward as
-it might seem. Many species, such as the white rhino (https://rhinos.org/about-rhinos/rhino-
-species/white-rhino/) in Africa, face possible extinction due to poaching, and international
+it might seem. Many species, such as the [white rhino](https://rhinos.org/about-rhinos/rhino-species/white-rhino/) in Africa, face possible extinction due to poaching, and international
 authorities have for decades struggled to tackle the issue. Following the logic stipulated in
 the cobra effect, should the authorities not themselves enter the white rhino market and
 raise the price in an effort to boost the population through breeding? While such a plan
