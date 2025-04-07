@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sustainability on Wonderland treadmill</title>
+		<link>http://localhost:1313/tags/sustainability/</link>
+		<description>Recent content in Sustainability on localhost:1313</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Fri, 21 Feb 2025 14:29:59 +0300</lastBuildDate>
+		<atom:link href="http://localhost:1313/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>The Good, the Bad and the Unsustainable.</title>
+			<link>http://localhost:1313/posts/cobra-effect-copy/</link>
+			<pubDate>Fri, 21 Feb 2025 14:29:59 +0300</pubDate>
+			<guid>http://localhost:1313/posts/cobra-effect-copy/</guid>
+			<description>
+			Sustainability has been a hot commodity these days. With relatively new investment vehicles, such as green bonds and sustainabilite …
+			</description>
+		</item>
+	</channel>
+</rss>

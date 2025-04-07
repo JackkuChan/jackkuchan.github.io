@@ -7,8 +7,17 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Fri, 21 Feb 2025 14:29:59 +0300</lastBuildDate>
+		<lastBuildDate>Sat, 05 Apr 2025 14:29:59 +0300</lastBuildDate>
 		<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>The Good, the Bad and the Unsustainable.</title>
+			<link>http://localhost:1313/posts/goodbandunsustainable/</link>
+			<pubDate>Sat, 05 Apr 2025 14:29:59 +0300</pubDate>
+			<guid>http://localhost:1313/posts/goodbandunsustainable/</guid>
+			<description>
+			Sustainability has been a hot commodity these days. With relatively new investment vehicles, such as green bonds and sustainability …
+			</description>
+		</item>
 		<item>
 			<title>The cobra effect and perverse incentives</title>
 			<link>http://localhost:1313/posts/cobra-effect/</link>
